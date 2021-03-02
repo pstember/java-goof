@@ -18,12 +18,12 @@
 
     <dependencies>
 
-        <!-- todolist core module-->
-        <dependency>
-            <groupId>io.github.snyk</groupId>
-            <artifactId>todolist-core</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
+<!--        &lt;!&ndash; todolist core module&ndash;&gt;-->
+<!--        <dependency>-->
+<!--            <groupId>io.github.snyk</groupId>-->
+<!--            <artifactId>todolist-core</artifactId>-->
+<!--            <version>1.0-SNAPSHOT</version>-->
+<!--        </dependency>-->
 
         <!-- javaee web api -->
         <dependency>
