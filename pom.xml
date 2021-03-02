@@ -24,6 +24,15 @@
     </modules>
     <packaging>pom</packaging>
 
+    <dependencies>
+    <!-- https://mvnrepository.com/artifact/dev.inmo/micro_utils.repos.ktor.common -->
+        <dependency>
+            <groupId>dev.inmo</groupId>
+            <artifactId>micro_utils.repos.ktor.common</artifactId>
+            <version>0.4.28</version>
+        </dependency>
+    </dependencies>
+
     <licenses>
         <license>
             <name>MIT License</name>
